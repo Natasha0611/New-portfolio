@@ -129,7 +129,7 @@
       font-size: 44px;
     }
   
-    .hero {
+    .hero{
       padding: 80px 20px;
     }
   
@@ -142,5 +142,27 @@
       padding: 0;
       text-align: center;
     }
+  }
+  .h1-contacts{
+    color: var(--branding-color);
+    font-family: var(--heading-font-family);
+    font-weight: bold;
+    font-size: 66px;
+    line-height: 1.5;
+  }
+  .contacts-section-type {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1,5;
+    color: var(--branding-color);
+    margin-right: 7px;
+  }
+  .contacts-section-link {
+    color: var(--branding-color);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
   }
  
