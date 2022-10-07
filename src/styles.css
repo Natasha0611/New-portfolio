@@ -42,7 +42,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -61,6 +61,9 @@ p {
 
 .content-container {
   padding: 160px 20px;
+}
+.content-container-work{
+  padding: 60px 20px;
 }
 
 .content h1 {
