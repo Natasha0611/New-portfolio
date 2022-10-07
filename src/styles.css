@@ -116,6 +116,9 @@ p {
 .logo {
   max-height: 40px;
 }
+.contacts-section-link{
+  text-decoration: none;
+}
 
 nav {
   padding: 20px 0;
