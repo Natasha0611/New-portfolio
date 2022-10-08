@@ -118,7 +118,10 @@ p {
 }
 .contacts-section-link{
   text-decoration: none;
+  color: black;
+  font-size: 24px;
 }
+
 
 nav {
   padding: 20px 0;
@@ -141,7 +144,7 @@ nav a {
   color: #272142;
   transition: all 100ms ease-in-out;
 }
-
+.contacts-section-link,
 nav a:hover,
 nav li.active a {
   color: var(--branding-color);
